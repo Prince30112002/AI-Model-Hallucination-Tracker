@@ -1,0 +1,6 @@
+response_id,question_id,model_name,response_text
+101,1,GPT-like-Model,Alexander Graham Bell invented the telephone.
+102,2,GPT-like-Model,The capital of Australia is Sydney.
+103,3,GPT-like-Model,Overfitting happens when a model performs well on training data but poorly on new data.
+104,4,GPT-like-Model,France won the FIFA World Cup in 2018.
+105,5,GPT-like-Model,The speed of light in vacuum is approximately 3 x 10^8 meters per second.

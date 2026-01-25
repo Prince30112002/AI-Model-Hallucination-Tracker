@@ -1,0 +1,6 @@
+question_id,question_text,question_type,difficulty
+1,Who invented the telephone?,fact,easy
+2,What is the capital of Australia?,fact,easy
+3,Explain overfitting in machine learning.,concept,medium
+4,Who won the FIFA World Cup 2018?,fact,easy
+5,What is the speed of light in vacuum?,fact,medium

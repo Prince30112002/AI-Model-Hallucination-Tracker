@@ -1,0 +1,6 @@
+response_id,model_name,hallucination_flag,confidence_score,final_label
+101,GPT-like-Model,0,0.95,accurate
+102,GPT-like-Model,1,0.4,hallucinated
+103,GPT-like-Model,0,0.85,accurate
+104,GPT-like-Model,0,0.9,accurate
+105,GPT-like-Model,0,0.92,accurate
