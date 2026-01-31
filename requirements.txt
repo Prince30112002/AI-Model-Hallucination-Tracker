@@ -4,4 +4,8 @@ scikit-learn
 matplotlib
 seaborn
 tqdm
-python-dotenv
+python-dotenv 
+nltk
+spacy
+sentence-transformers
+
