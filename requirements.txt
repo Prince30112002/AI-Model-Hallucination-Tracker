@@ -12,3 +12,4 @@ sentence-transformers
 nltk
 spacy
 sentence-transformers
+pyyaml
