@@ -13,3 +13,6 @@ nltk
 spacy
 sentence-transformers
 pyyaml
+faiss-cpu
+evaluate
+datasets
