@@ -20,3 +20,5 @@ datasets
 plotly
 datasets
 pyyaml
+spacy
+sentence-transformers
