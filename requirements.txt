@@ -22,3 +22,6 @@ datasets
 pyyaml
 spacy
 sentence-transformers
+
+tqdm
+python-dotenv 
