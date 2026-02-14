@@ -35,3 +35,6 @@ seaborn
 seaborn
 tqdm
 python-dotenv 
+plotly
+datasets
+pyyaml
