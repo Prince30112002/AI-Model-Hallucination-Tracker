@@ -38,3 +38,9 @@ python-dotenv
 plotly
 datasets
 pyyaml
+
+
+
+faiss-cpu
+evaluate
+datasets
